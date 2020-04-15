@@ -15,8 +15,7 @@ eventsList = eventsData.map(event => {
   const mo = new Intl.DateTimeFormat('en', { month: 'short' }).format(d)
   const da = new Intl.DateTimeFormat('en', { day: '2-digit' }).format(d)
 
-  return `
-<li class="${event.climate}">
+  return `<li class="${event.climate}">
   <h3><a href="${event.url}">${event.title}</a></h3>
   <span>${mo} ${da}, ${ye}</span> - ${event.about}
 </li>

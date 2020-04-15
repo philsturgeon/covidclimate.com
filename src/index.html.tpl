@@ -76,33 +76,43 @@
     #reasons li {
       margin: 1em;
       padding: 1em;
-      width: 80%;
     }
 
     #reasons li.negative {
       background-color: #b3320b;
       color: white;
-      margin-left: -100px;
     }
     #reasons li.negative a {
       color: lightgrey;
     }
     #reasons li.positive {
       background-color: #82b21e;
-      margin-right: 100px;
     }
 
     @media(min-width: 700px) {
-        h1 {
-            font-size: 6rem;
+      h1 {
+        font-size: 6rem;
+      }
+
+      h2 {
+        font-size: 3rem;
+      }
+
+      #reasons li {
+        width: 90%;
+      }
+    }
+
+    @media(min-width: 950px) {
+        #reasons li {
+          width: 80%;
         }
 
-        h2 {
-            font-size: 3rem;
+        #reasons li.negative {
+          margin-left: -100px;
         }
-
-        h3 {
-            font-size: 2.8rem;
+        #reasons li.positive {
+          margin-right: 100px;
         }
     }
 </style>
