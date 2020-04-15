@@ -123,7 +123,6 @@
 </p>
 
 <section id="reasons">
-
   <p>
     Climate change is bringing about health problems and economic instability,
     caused by extreme weather events, droughts, floods – exacerbating

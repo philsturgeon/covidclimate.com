@@ -21,6 +21,17 @@
   date: 2020-04-14
   climate: positive
 
+- title: 'Oil Nations Reach Deal to Slash Production'
+  url: "https://www.nytimes.com/2020/04/12/business/energy-environment/opec-russia-saudi-arabia-oil-coronavirus.html"
+  about: >
+    The deal will reduce output by 9.7 million barrels a day. Before the
+    coronavirus crisis, 100 million barrels of oil each day fueled global
+    commerce, but demand is down about 35 percent. While significant, the cuts
+    agreed to on Sunday still fall far short of what is needed to bring oil
+    production in line with demand.
+  date: 2020-04-13
+  climate: positive
+  
 - title: 'China Considers Building More Coal Plants'
   url: "https://www.independent.co.uk/environment/climate-change/coal-plants-profits-china-carbon-tracker-revenue-a9457921.html"
   about: >
