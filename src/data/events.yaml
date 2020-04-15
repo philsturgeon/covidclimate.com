@@ -11,6 +11,17 @@
   date: 2020-04-14
   climate: negative
 
+- title: 'China Considers Building More Coal Plants'
+  url: "https://www.independent.co.uk/environment/climate-change/coal-plants-profits-china-carbon-tracker-revenue-a9457921.html"
+  about: >
+    China, which produces and consumes about half the world’s coal, might be
+    considering building more coal plants to re-energise its economy once the
+    COVID-19 pandemic has passed, after the National Energy Administration
+    announced it was ready to relax rules on coal power investment, the report
+    said.
+  date: 2020-04-10
+  climate: negative
+
 - title: '"The oil and gas sector will never be the same again"'
   url: "https://www.theguardian.com/environment/2020/apr/01/the-fossil-fuel-industry-is-broken-will-a-cleaner-climate-be-the-result?CMP=share_btn_tw"
   about: >
@@ -37,6 +48,25 @@
   climate: negative
   alternative_sources:
     - https://www.nytimes.com/2020/03/30/climate/trump-fuel-economy.html
+    - https://www.desmogblog.com/2020/03/31/trump-safe-cafe-rule-health-climate-oil
+
+- title: "US Republicans Propose Oil and Gas Stop Royalty Payments"
+  url: "http://priceofoil.org/content/uploads/2020/04/senate_royalty_letter.pdf"
+  about: > 
+    Senate Republicans are proposing that oil and gas companies no longer have
+    to make royalty payments (even though you still have to pay your rent). 
+  date: 2020-03-30
+  climate: negative
+
+- title: "Alberta education cut expected to lay off thousands during pandemic"
+  url: "https://www.cbc.ca/news/canada/edmonton/funding-reduction-alberta-k-12-covid-1.5513803"
+  about: > 
+    The Alberta Government just provided a $1 billion loan and over $4 billion
+    in loan guarantees to TC Energy to build the Keystone XL pipeline. This came
+    just days after the province laid off over 20,000 education workers amid
+    claims of being cash-strapped.
+  date: 2020-03-28
+  climate: negative
 
 - title: "Carmakers accused of trying to use crisis to avert emissions crackdown"
   url: "https://www.theguardian.com/business/2020/mar/27/carmakers-accused-of-using-covid-19-weaken-environmental-laws"
@@ -59,11 +89,23 @@
 - title: "EPA suspends enforcement of environmental laws amid coronavirus"
   url: "https://thehill.com/policy/energy-environment/489753-epa-suspends-enforcement-of-environmental-laws-amid-coronavirus"
   about: > 
-    The U.S. Environmental Protection Agency (EPA) issued a sweeping suspension of its enforcement of environmental laws Thursday, telling companies they would not need to meet environmental standards during the coronavirus outbreak.
+    The American Petroleum Institute got the Environmental Protection Agency to
+    stop enforcing environmental and public health protections indefinitely,
+    telling companies they would not need to meet environmental standards during
+    the coronavirus outbreak.
 
-    The temporary policy, for which the EPA has set no end date, would allow any number of industries to skirt environmental laws, with the agency saying it will not “seek penalties for noncompliance with routine monitoring and reporting obligations.”
+    The temporary policy, for which the EPA has set no end date, would allow any
+    number of industries to skirt environmental laws, with the agency saying it
+    will not “seek penalties for noncompliance with routine monitoring and
+    reporting obligations.”
   date: 2020-03-26
   climate: negative
+
+- title: "Shale Gas Production Deemed Life-Sustaining in Pennsylvania"
+  url: "https://www.eenews.net/stories/1062702737"
+  about: Fossil fuel companies are continuing pipeline construction even though it could spread the coronavirus, threatening the health and safety of workers and communities.
+  date: 2020-03-26
+  climate: positive
 
 - title: "Coronavirus Has Slashed Global Air Pollution"
   url: "https://earther.gizmodo.com/coronavirus-slashes-global-air-pollution-interactive-m-1842473790"
@@ -76,3 +118,26 @@
   about: Global commercial air traffic tracked by Flightradar24 is now 10% lower in March 2020 compared to 2019. This week has seen a sharp decrease in commercial flights as airlines begin parking their fleets and operating minimum services or none at all.
   date: 2020-03-20
   climate: positive
+
+- title: "US seeks $3 billion to boost oil producers as prices plunge"
+  url: "https://apnews.com/54cd988eea89176a3cb3329e258ac8ad"
+  about: > 
+    The fossil fuel industry is lobbying the government to spend $3 billion that
+    could go to coronavirus relief on buying a bunch of oil for the Strategic
+    Petroleum Reserve.
+  date: 2020-03-19
+  climate: negative
+
+- title: "Public Land still actively sold to Fossil Fuel Industry"
+  url: "https://apnews.com/54cd988eea89176a3cb3329e258ac8ad"
+  about: > 
+    The Bureau of Land Management is continuing to issue new oil and gas leases
+    at ridiculously low prices, selling off our public lands to the fossil fuel
+    industry.
+
+    Environmentalists are urging the Interior Department to hit the pause button
+    on policy decisions — from public comment periods to oil and gas lease sales
+    — as the nation attempts to address the coronavirus pandemic, but the Trump
+    administration has shown no indication it plans to do so.
+  date: 2020-03-17
+  climate: negative

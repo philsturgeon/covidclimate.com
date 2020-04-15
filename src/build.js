@@ -11,8 +11,8 @@ const templateHtml = fs.readFileSync(templateFile,'utf8');
 
 eventsList = eventsData.map(event => `
 <li class="${event.climate}">
-  <a href="${event.url}">${event.title}</a>
-  <span>${event.about}</span>
+  <h3><a href="${event.url}">${event.title}</a></h3>
+  <div>${event.about}</div>
 </li>
 `);
 

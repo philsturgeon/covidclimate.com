@@ -70,7 +70,7 @@
 
     #reasons ul, #jobs ul {
       list-style: none;
-      font-size: 0.8em;
+      font-size: 0.7em;
     }
 
     #reasons li {
@@ -81,9 +81,12 @@
 
     #reasons li.negative {
       background-color: #b3320b;
+      color: white;
       margin-left: -100px;
     }
-
+    #reasons li.negative a {
+      color: lightgrey;
+    }
     #reasons li.positive {
       background-color: #82b21e;
       margin-right: 100px;
