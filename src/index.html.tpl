@@ -68,7 +68,7 @@
         font-size: 1.4em;
     }
 
-    #reasons ul {
+    #reasons ul, #jobs ul {
       list-style: none;
       font-size: 0.8em;
     }
@@ -173,7 +173,7 @@
   </p>
 </section>
 
-<section id="climate">
+<section id="jobs">
   <h2>Want a job in climate action?</h2>
 
   <ul>
