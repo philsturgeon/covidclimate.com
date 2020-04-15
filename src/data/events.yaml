@@ -1,0 +1,78 @@
+- title: 'More Logging in National Forests on Trump Anti-Virus Agenda'
+  url: "https://news.bloomberglaw.com/environment-and-energy/national-forest-logging-extended-to-support-industry-in-pandemic"
+  about: >
+    The Trump administration is allowing loggers to extend timber harvesting
+    contracts by up to two years for contracts issued prior to April 1 in
+    national forests in the Lower 48 states. Loggers in Alaska’s Tongass
+    National Forest, who have seen their market “exceptionally disrupted,” can
+    have their contracts extended for three years. Seen by many as a back-door
+    approach to prop up an industry hurt by a trade war with China started by
+    President Donald Trump.
+  date: 2020-04-14
+  climate: negative
+
+- title: '"The oil and gas sector will never be the same again"'
+  url: "https://www.theguardian.com/environment/2020/apr/01/the-fossil-fuel-industry-is-broken-will-a-cleaner-climate-be-the-result?CMP=share_btn_tw"
+  about: >
+    The plunging demand for oil wrought by the coronavirus pandemic combined
+    with a savage price war has left the fossil fuel industry broken and in
+    survival mode, according to analysts. In 2018, Carbon Tracker estimated peak
+    demand would come in 2023 it's possible that the crisis has advanced
+    this by three years.
+  date: 2020-04-01
+  climate: positive
+
+- title: "Trump Administration Finalizes Car Rule Which Will Worsen Economy, Public Health"
+  url: "https://blog.ucsusa.org/dave-cooke/trump-administration-finalizes-car-rule-which-will-worsen-economy-public-health"
+  about: > 
+    The Trump administration just finalized a rule to undo requirements on
+    manufacturers to improve fuel economy and reduce greenhouse gas emissions
+    from new passenger cars and trucks, lowering expectations from 54 miles per
+    gallon by 2025 to 40 miles a gallon by 2030.
+    
+    American drivers will burn an additional 2 billion barrels of oil, resulting
+    in 900 million metric tons of additional global warming emissions, and
+    thousands of premature air pollution fatalities.
+  date: 2020-03-31
+  climate: negative
+  alternative_sources:
+    - https://www.nytimes.com/2020/03/30/climate/trump-fuel-economy.html
+
+- title: "Carmakers accused of trying to use crisis to avert emissions crackdown"
+  url: "https://www.theguardian.com/business/2020/mar/27/carmakers-accused-of-using-covid-19-weaken-environmental-laws"
+  about: > 
+    The motor industry has been accused by campaigners of trying to use the
+    coronavirus crisis to avert stricter environmental regulation, after
+    correspondence showed carmakers had lobbied the EU to defer impending
+    laws.The European carmakers’ association, ACEA, and other groups
+    representing the supply chain called on the EU to delay implementing
+    regulations because the pandemic had affected its plans to comply.
+  date: 2020-03-27
+  climate: negative
+
+- title: "EU leaders agree to consider climate in coronavirus recovery plan"
+  url: "https://www.reuters.com/article/us-health-coronavirus-climate-change/eu-leaders-agree-to-consider-climate-in-coronavirus-recovery-plan-idUSKBN21E22U"
+  about: Although the details of the plan itself still have to be worked out, a statement said they had agreed that it should be consistent with the “green transition”, the phrase the EU uses to describe the aim of reducing emissions that heat the planet. 
+  date: 2020-03-27
+  climate: positive
+
+- title: "EPA suspends enforcement of environmental laws amid coronavirus"
+  url: "https://thehill.com/policy/energy-environment/489753-epa-suspends-enforcement-of-environmental-laws-amid-coronavirus"
+  about: > 
+    The U.S. Environmental Protection Agency (EPA) issued a sweeping suspension of its enforcement of environmental laws Thursday, telling companies they would not need to meet environmental standards during the coronavirus outbreak.
+
+    The temporary policy, for which the EPA has set no end date, would allow any number of industries to skirt environmental laws, with the agency saying it will not “seek penalties for noncompliance with routine monitoring and reporting obligations.”
+  date: 2020-03-26
+  climate: negative
+
+- title: "Coronavirus Has Slashed Global Air Pollution"
+  url: "https://earther.gizmodo.com/coronavirus-slashes-global-air-pollution-interactive-m-1842473790"
+  about: Interactive maps the air in pollution hotspots in Italy, China, and the US (especially Los Angeles and New York City) becoming noticeably cleaner.
+  date: 2020-03-25
+  climate: positive
+
+- title: "Commercial Air Traffic Down 10%"
+  url: "https://www.flightradar24.com/blog/march-commercial-traffic-down-10-below-2019-so-far/"
+  about: Global commercial air traffic tracked by Flightradar24 is now 10% lower in March 2020 compared to 2019. This week has seen a sharp decrease in commercial flights as airlines begin parking their fleets and operating minimum services or none at all.
+  date: 2020-03-20
+  climate: positive
