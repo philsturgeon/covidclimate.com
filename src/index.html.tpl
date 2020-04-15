@@ -139,15 +139,16 @@
 
   <p>
     Lockdowns worldwide might have stalled a few greenhouse gas emission charts,
-    but any short term gains are being massively outweighed by long term
-    impacts created by lobbyists and supported by ignorant government officials.
+    but any short term gains are being massively outweighed by long term impacts
+    created by lobbyists and supported by ignorant government officials. Despite
+    all this, some people think that Mother Earth is somehow "doing well" out of
+    this, some going as far as saying this is the world environmental activists
+    have been hoping for. 
   </p>
   
   <p>
-    Despite all this, some people think that Mother Earth is somehow "doing
-    well" out of this, some going as far as saying this is the world
-    environmental activists have been hoping for. 🤦🏻‍ Let's look into events
-    that have positively or negatively impacted the environment.
+    Let's look into events that have positively or negatively impacted the
+    environment.
   </p>
 
   {TIMELINE}
