@@ -152,6 +152,13 @@
 
   {TIMELINE}
 
+  <p>
+    Thank you to Jamie Henn for the amazing <a
+    href="https://twitter.com/jamieclimate/status/1245718326069751812">Twitter
+    thread</a> which put together a lot of the oil/pipeline content. See more on
+    <a href="https://nobigoilbailout.com/">No Big Oil Bailout</a>.
+  </p>
+
 </section>
 
 <section id="jobs">

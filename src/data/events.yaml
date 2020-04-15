@@ -119,6 +119,14 @@
   date: 2020-03-20
   climate: positive
 
+- title: "EPA Relaxes Dirtier Winter Gasoline Sales Dates"
+  url: "https://www.theguardian.com/business/2020/mar/27/carmakers-accused-of-using-covid-19-weaken-environmental-laws"
+  about: > 
+    U.S. EPA is allowing the sale of dirtier "winter fuel" gasoline during COVID-19,
+    worsening air quality in the midst of a respiratory virus pandemic, which will lead to extra deaths.
+  date: 2020-03-20
+  climate: negative
+
 - title: "US seeks $3 billion to boost oil producers as prices plunge"
   url: "https://apnews.com/54cd988eea89176a3cb3329e258ac8ad"
   about: > 
