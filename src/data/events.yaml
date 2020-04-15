@@ -22,6 +22,16 @@
   date: 2020-04-10
   climate: negative
 
+- title: 'Oil Executives Visiting the White House to Discuss Relief'
+  url: "https://www.greenpeace.org/usa/research/meet-the-oil-executives-visiting-the-white-house-to-discuss-relief-for-the-industry-with-trump/"
+  about: >
+    Between salaries, bonuses, stock options, and other compensation, these
+    seven executives earned at least a combined $100 million in 2018 alone. But
+    they’re in Washington to ask for relief after oil prices plummeted to around
+    $20 per barrel this week. 
+  date: 2020-04-02
+  climate: negative
+
 - title: '"The oil and gas sector will never be the same again"'
   url: "https://www.theguardian.com/environment/2020/apr/01/the-fossil-fuel-industry-is-broken-will-a-cleaner-climate-be-the-result?CMP=share_btn_tw"
   about: >
@@ -105,7 +115,7 @@
   url: "https://www.eenews.net/stories/1062702737"
   about: Fossil fuel companies are continuing pipeline construction even though it could spread the coronavirus, threatening the health and safety of workers and communities.
   date: 2020-03-26
-  climate: positive
+  climate: negative
 
 - title: "Coronavirus Has Slashed Global Air Pollution"
   url: "https://earther.gizmodo.com/coronavirus-slashes-global-air-pollution-interactive-m-1842473790"
