@@ -4,7 +4,7 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>COVID vs Climate</title>
-<meta name="description" content="Lots of folks love working remote for lots of different reasons. Here are a bunch.">
+<meta name="description" content="With much of the worlds population stuck in lockdown, industry and government are having a field day.">
 <link href="https://fonts.googleapis.com/css?family=Londrina+Solid|Sarabun&display=swap" rel="stylesheet">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌏</text></svg>">
 <style type="text/css">
@@ -115,17 +115,16 @@
 <h1>COVID vs Climate</h1>
 
 <p class="intro">
-  As the world focuses on tackling COVID-19, we must not forget that this won’t
-  be the last pandemic we will see.
+  As the world focuses on tackling COVID-19, we must not forget: this won’t be
+  the last pandemic we suffer.
 </p>
 
 <section id="reasons">
 
   <p>
-    Climate change will bring on a range of health problems and economic
-    instability, caused by warmer temperatures and extreme weather events, such as
-    droughts and floods – exacerbating air pollution, the spread of bugs and
-    water-borne bacteria, etc.
+    Climate change is bringing about health problems and economic instability,
+    caused by extreme weather events, droughts, floods – exacerbating
+    air pollution, the spread of bugs and water-borne bacteria, etc.
   </p>
 
   <p>
