@@ -15,7 +15,7 @@
 
     main {
         max-width: 980px;
-        margin: 0 auto;
+        margin: 0 auto 100px;
         font-size: 1.5rem;
         line-height: 1.6;
         color: #444;
@@ -194,5 +194,6 @@
 </section>
 
 </main>
+<script src="https://widget.earthdaylive2020.org/widget.js" async></script> 
 </body>
 </html>
