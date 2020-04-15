@@ -153,12 +153,6 @@
   date: 2020-03-26
   climate: negative
 
-- title: "Coronavirus Has Slashed Global Air Pollution"
-  url: "https://earther.gizmodo.com/coronavirus-slashes-global-air-pollution-interactive-m-1842473790"
-  about: Interactive maps the air in pollution hotspots in Italy, China, and the US (especially Los Angeles and New York City) becoming noticeably cleaner.
-  date: 2020-03-25
-  climate: positive
-
 - title: "Commercial Air Traffic Down 10%"
   url: "https://www.flightradar24.com/blog/march-commercial-traffic-down-10-below-2019-so-far/"
   about: Global commercial air traffic tracked by Flightradar24 is now 10% lower in March 2020 compared to 2019. This week has seen a sharp decrease in commercial flights as airlines begin parking their fleets and operating minimum services or none at all.
@@ -181,6 +175,17 @@
     Petroleum Reserve.
   date: 2020-03-19
   climate: negative
+
+- title: "Right-wing Thinktanks use COVID-19 Fear to Fight Plastic Bag Bans"
+  url: "https://heated.world/p/the-right-is-using-covid-19-to-wage"
+  about: >
+    Maine is first state in the US to repeal its ban on single-use plastics,
+    after Conservative interests team up to bring back the plastic bag using
+    "scientifically questionable" claims that reusable bags spread coronavirus. 
+  date: 2020-03-17
+  climate: negative
+  alternative_sources: 
+    - https://www.theguardian.com/environment/2020/mar/27/rightwing-thinktanks-use-fear-of-covid-19-to-fight-bans-on-plastic-bags
 
 - title: "Public Land still actively sold to Fossil Fuel Industry"
   url: "https://apnews.com/54cd988eea89176a3cb3329e258ac8ad"
