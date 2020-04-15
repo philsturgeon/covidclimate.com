@@ -1,13 +1,3 @@
-- title: 'Offset Earth and Eden Reforestation Continue to Plant'
-  url: "https://offset.earth/articles/updates/update-our-offset-earth-members-forest-is-growing-%F0%9F%8C%B1"
-  about: >
-    Local planters in Madagasgar are still successfully avoiding coronavirus and
-    busily planting 100’s of mangroves a day with Eden Reforestation. Eden have
-    briefed the local planters on social distancing and have supplied homemade
-    hand sanitiser to all those working on site.
-  date: 2020-04-14
-  climate: negative
-
 - title: 'More Logging in National Forests on Trump Anti-Virus Agenda'
   url: "https://news.bloomberglaw.com/environment-and-energy/national-forest-logging-extended-to-support-industry-in-pandemic"
   about: >
@@ -20,6 +10,16 @@
     President Donald Trump.
   date: 2020-04-14
   climate: negative
+
+- title: 'Offset Earth and Eden Reforestation Continue to Plant'
+  url: "https://offset.earth/articles/updates/update-our-offset-earth-members-forest-is-growing-%F0%9F%8C%B1"
+  about: >
+    Local planters in Madagasgar are still successfully avoiding coronavirus and
+    busily planting 100’s of mangroves a day with Eden Reforestation. Eden have
+    briefed the local planters on social distancing and have supplied homemade
+    hand sanitiser to all those working on site.
+  date: 2020-04-14
+  climate: positive
 
 - title: 'China Considers Building More Coal Plants'
   url: "https://www.independent.co.uk/environment/climate-change/coal-plants-profits-china-carbon-tracker-revenue-a9457921.html"
