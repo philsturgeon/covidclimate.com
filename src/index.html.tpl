@@ -189,7 +189,7 @@
     <li>🌏 <a href="https://greenpeace.org/">Greenpeace</a> - Campaigning for COVID bailouts that help us hit climate targets we're otherwise going to smash through.</li>
     <li>🌏 <a href="https://offset.earth/">Offset Earth</a> - Reforesting in Madagascar and funding carbon reduction programs worldwide. Subscribe now, for the price of one beer a week, or month, depending on the plan you get.</li>
     <li>🇺🇸 <a href="https://ucsusa.org/">Union of Concerned Scientists</a> - Usually fighting for responsible climate policies, they're now actively monitoring the coronavirus pandemic and its implications for scientific integrity.</li>
-    <li>🇺🇸 <a href="https://www.nrdc.org/">National Resources Defence Council</a> - 700 scientists, lawyers, and policy advocates across the globe to ensure the rights of all people to the air, the water, and the wild.</li>
+    <li>🇺🇸 <a href="https://www.nrdc.org/">National Resources Defence Council</a> - 700 scientists, lawyers, and policy advocates across the globe to ensure the rights of all people to a habitable environment. They've sued the Trump administration 106 times alone, and have won 92% of their cases.</li>
     <li>🇬🇧 <a href="https://friendsoftheearth.uk/">Friends of the Earth</a> - Largely to thank for stopping the Heathrow expansion.</li>
   </ul>
   
