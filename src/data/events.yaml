@@ -29,10 +29,10 @@
 - title: 'Offset Earth and Eden Reforestation Continue to Plant'
   url: "https://offset.earth/articles/updates/update-our-offset-earth-members-forest-is-growing-%F0%9F%8C%B1"
   about: >
-    Local planters in Madagasgar are still successfully avoiding coronavirus and
+    Local planters in Madagascar are still successfully avoiding coronavirus and
     busily planting 100’s of mangroves a day with Eden Reforestation. Eden have
     briefed the local planters on social distancing and have supplied homemade
-    hand sanitiser to all those working on site.
+    hand sanitizer to all those working on site.
   date: 2020-04-14
   climate: positive
 
@@ -84,6 +84,29 @@
   date: 2020-04-08
   climate: positive
 
+- title: 'UK Households to be paid for daytime green electricity use during lockdown' 
+  url: "https://www.theguardian.com/environment/2020/apr/05/thousands-to-be-paid-for-daytime-green-electricity-use-during-lockdown"
+  about: >
+     Fall in energy use combined with bright, breezy weather leads to lowest electricity prices in
+     10 years.  On Sunday morning, wind farms contributed almost 40% of the UK’s electricity, while
+     solar power made up almost a fifth of the power system. Fossil fuels made up less than 15% of
+     electricity, of which only 1.1% came from coal plants. Meanwhile, the country’s energy demand
+     has fallen by around 10% due to the shutdown of pubs, restaurants, companies and factories
+     across the country, leading to the lowest electricity market prices in 10 years.
+  date: 2020-04-05 
+  climate: positive
+
+- title: 'Virus could cause biggest emissions drop since World War II'
+  url: "https://www.aljazeera.com/ajimpact/virus-biggest-emissions-drop-world-war-ii-200403062419822.html"
+  about: >
+    Carbon output could fall by more than 5 percent year-on-year - the first dip since a 1.4
+    percent reduction after the 2008 financial crisis, said Rob Jackson, who chairs the Global
+    Carbon Project.  "Neither the fall of the Soviet Union nor the various oil or savings and loan
+    crises of the past 50 years are likely to have affected emissions the way this crisis is," he
+    said.
+  date: 2020-04-03
+  climate: positive
+
 - title: 'Oil Executives Visit White House to Discuss Relief'
   url: "https://www.greenpeace.org/usa/research/meet-the-oil-executives-visiting-the-white-house-to-discuss-relief-for-the-industry-with-trump/"
   about: >
@@ -104,6 +127,20 @@
     this by three years.
   date: 2020-04-01
   climate: positive
+
+- title: 'Cop26 climate talks in Glasgow postponed until 2021'
+  url: "https://www.theguardian.com/environment/2020/apr/01/uk-likely-to-postpone-cop26-un-climate-talks-glasgow-coronavirus"
+  about: >
+    Crucial UN conference will be delayed until next year as a result of the
+    coronavirus crisis. The most important climate negotiations since the Paris
+    agreement in 2015 were scheduled to take place this November to put
+    countries back on track to avoid climate breakdown. They will now be pushed
+    back to 2021.  "...while the summit has been delayed, the climate emergency
+    can’t be put on hold.  Government stimulus packages will hold the key as to
+    whether this emergency significantly delays or advances progress on tackling
+    the climate emergency.”"
+  date: 2020-04-01
+  climate: negative
 
 - title: "Trump Administration Finalizes Car Rule Which Will Worsen Economy, Public Health"
   url: "https://blog.ucsusa.org/dave-cooke/trump-administration-finalizes-car-rule-which-will-worsen-economy-public-health"
@@ -193,7 +230,7 @@
 
 - title: "Commercial Air Traffic Down 10%"
   url: "https://www.flightradar24.com/blog/march-commercial-traffic-down-10-below-2019-so-far/"
-  about: Global commercial air traffic tracked by Flightradar24 is now 10% lower in March 2020 compared to 2019. This week has seen a sharp decrease in commercial flights as airlines begin parking their fleets and operating minimum services or none at all.
+  about: Global commercial air traffic tracked by FlightRadar24 is now 10% lower in March 2020 compared to 2019. This week has seen a sharp decrease in commercial flights as airlines begin parking their fleets and operating minimum services or none at all.
   date: 2020-03-20
   climate: positive
 
@@ -214,7 +251,7 @@
   date: 2020-03-19
   climate: negative
 
-- title: "Right-wing Thinktanks use COVID-19 Fear to Fight Plastic Bag Bans"
+- title: "Right-wing Think Tanks use COVID-19 Fear to Fight Plastic Bag Bans"
   url: "https://heated.world/p/the-right-is-using-covid-19-to-wage"
   about: >
     Maine is first state in the US to repeal its ban on single-use plastics,
