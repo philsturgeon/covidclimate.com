@@ -1,4 +1,5 @@
 const fs = require('fs');
+const slugify = require('slugify');
 const path = require('path');
 const yaml = require('js-yaml');
 
@@ -15,11 +16,13 @@ eventsList = eventsData.map(event => {
   const mo = new Intl.DateTimeFormat('en', { month: 'short' }).format(d)
   const da = new Intl.DateTimeFormat('en', { day: '2-digit' }).format(d)
 
-  return `<li class="${event.climate}">
-  <h3><a href="${event.url}">${event.title}</a></h3>
+  return (
+    `<li class="${event.climate}">
+  <h3 id="${slugify(event.title)}"><a href="${event.url}">${event.title}</a></h3>
   <span>${mo} ${da}, ${ye}</span> - ${event.about}
 </li>
 `
+  )
 });
 
 let newHtml = templateHtml;

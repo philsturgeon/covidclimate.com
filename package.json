@@ -2,7 +2,8 @@
   "name": "covidclimate.com",
   "version": "1.0.0",
   "dependencies": {
-    "js-yaml": "^3.13.1"
+    "js-yaml": "^3.13.1",
+    "slugify": "^1.4.0"
   },
   "scripts": {
     "build": "node src/build.js"
