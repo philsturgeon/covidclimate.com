@@ -85,6 +85,11 @@
     #reasons li.negative a {
       color: lightgrey;
     }
+    
+    #reasons li.neutral {
+      background-color: #fff48c;
+    }
+
     #reasons li.positive {
       background-color: #82b21e;
     }
@@ -112,7 +117,7 @@
           margin-left: -100px;
         }
         #reasons li.positive {
-          margin-right: 100px;
+          margin-left: 100px;
         }
     }
 </style>
