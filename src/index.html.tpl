@@ -146,9 +146,9 @@
 
   <p>
     Hard won environmental legislation being tossed in the bin daily with the
-    stroke of a pen. Charities and groups who were already battling against the
-    odds to secure our future, but now they're fighting on considerably more
-    fronts with decreased funding as people struggle to afford food let alone charity.
+    stroke of a pen. Charities and groups were already battling against the odds
+    to secure our future, but now they're fighting on considerably more fronts
+    with decreased funding as people struggle to afford food let alone charity.
   </p>
 
   <p>
