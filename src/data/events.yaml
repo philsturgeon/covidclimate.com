@@ -1,4 +1,18 @@
 
+- title: "JetBlue send Low Flying Jets over NYC as a PR Stunt"
+  url: "https://twitter.com/NYPDnews/status/1258441672427474945"
+  about: >
+    "Three JetBlue aircrafts conducted a flyover over Manhattan, Queens and the
+    Bronx to salute frontline first responders & health care workers. The
+    aircrafts will fly at approximately 2,000 ft." NYPD
+
+    "Nothing like a corporate PR campaign that burns jet fuel at low altitudes
+    over vulnerable communities dying from a respiratory virus that compounds on our
+    preexisting and disproportionate exposure to air pollution to show healthcare
+    workers we care" -- Alexandria Ocasio-Cortez
+  date: 2020-05-07
+  climate: negative
+
 - title: "Coronavirus Makes Cooling Centers Risky, Just as Scorching Weather Hits"
   url: "https://www.nytimes.com/2020/05/06/climate/coronavirus-climate-change-heat-waves.html"
   about: >
@@ -11,8 +25,7 @@
     of these energy-hogging band-aids are only contributing to making climate
     change worse when we need to be focusing on the opposite.
   date: 2020-05-06
-  climate: negative
-
+  
 - title: "Air France ordered to curb competition with rail in France"
   url: "https://www.railjournal.com/passenger/high-speed/air-france-ordered-to-curb-competiton-with-rail-in-france/"
   about: >

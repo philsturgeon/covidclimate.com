@@ -197,9 +197,12 @@
   <p>
     For more personal climate action you can focus on during this time, check out a list of almost 300 things you could be doing right now on <a href="https://protect.earth/">Protect.Earth</a>
   </p>
+
+  <p>
+    If you'd like to support this project, please donate trees to our <a href="https://offset.earth/philsturgeon">Offset Earth forest</a> or send us a <a href="https://github.com/philsturgeon/covidclimate.com/">pull request on GitHub</a>.
+  </p>
 </section>
 
 </main>
-<script src="https://widget.earthdaylive2020.org/widget.js" async></script> 
 </body>
 </html>
