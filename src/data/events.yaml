@@ -1,3 +1,68 @@
+  
+- title: "Water Pollution Caused by Lockdown DIY Waste (Painting, Gardening, etc)"
+  url: "https://www.bbc.co.uk/news/uk-northern-ireland-52747943"
+  about: >
+    Staff from the Northern Ireland Environment Agency have investigated
+    incidents caused by waste water linked to painting and decorating being
+    disposed of incorrectly.
+
+    "I know people are taking this time to catch up on jobs around the house but
+    please make sure disposing of the waste water associated with these DIY jobs
+    doesn't damage your local river." Mr Poots added.
+  date: 2020-05-21
+  climate: negative
+
+- title: "Ecotourism Collapse Threatens Communities And Wildlife"
+  url: "https://www.theguardian.com/environment/2020/may/05/conservation-in-crisis-covid-19-coronavirus-ecotourism-collapse-threatens-communities-and-wildlife-aoe"
+  about: >
+    Organisations all over the world that depend on visitors to fund projects
+    for critically endangered species and rare habitats could be forced to
+    close, according to wildlife NGOs, after border closures and worldwide
+    travel restrictions abruptly halted millions of pounds of income from
+    tourism.
+  date: 2020-05-20
+  climate: negative
+
+- title: "Oahu Coal Plant Vows To Reduce Carbon Emissions"
+  url: "https://www.civilbeat.org/beat/oahu-coal-plant-will-reduce-carbon-emissions"
+  about: >
+    AES Hawaii Inc. has agreed to significantly reduce greenhouse gas emissions
+    at its coal-fired plant in Kapolei, which provides about one-fifth of Oahu’s
+    electricity.
+
+    The announcement came after the Sierra Club earlier this week sued the
+    Hawaii Department of Health, asking a state judge to require DOH make the
+    power plant reduce its carbon dioxide emissions as mandated by state law. In
+    its complaint, the Sierra Club said the department had failed to fulfill a
+    duty to make sure AES had submitted a plan to lower emissions to at least
+    1990 levels by Jan. 1.
+  date: 2020-05-20
+  climate: positive
+
+- title: "Global Carbon Emissions Down by 17%"
+  url: "https://www.theguardian.com/environment/2020/may/19/lockdowns-trigger-dramatic-fall-global-carbon-emissions"
+  about: >
+    Daily emissions of the greenhouse gas plunged 17% by early April compared
+    with 2019 levels, according to the first definitive study of global carbon
+    output this year. “This is a really big fall, but at the same time, 83% of
+    global emissions are left, which shows how difficult it is to reduce
+    emissions with changes in behaviour,” said Corinne Le Quéré, a professor of
+    climate change at the University of East Anglia.
+  date: 2020-05-19
+  climate: positive
+
+- title: "The United States Is Facing A Shortage Of Bicycles As Demand Surges"
+  url: "https://www.nytimes.com/2020/05/18/nyregion/bike-shortage-coronavirus.html?referringSource=articleShare"
+  about: >
+    All over the States, bicycle shops are running out of stock as they struggle
+    to keep up with demand from people trying to avoid public transportation and
+    exercise. Some bicycle shops in Brooklyn are selling twice as many bikes
+    as usual and drawing blocklong lines of customers. A chain of shops in
+    Phoenix is selling three times the number of bikes it typically does. A
+    retailer in Washington, D.C., sold all its entry-level bikes by the end of
+    April and has fielded more preorders than ever in its 50-year history.
+  date: 2020-05-18
+  climate: positive
 
 - title: "JetBlue send Low Flying Jets over NYC as a PR Stunt"
   url: "https://twitter.com/NYPDnews/status/1258441672427474945"
@@ -38,6 +103,59 @@ Activists"
     of these energy-hogging band-aids are only contributing to making climate
     change worse when we need to be focusing on the opposite.
   date: 2020-05-06
+
+- title: "UK warned to avoid climate change crisis"
+  url: "https://www.bbc.co.uk/news/science-environment-52547885"
+  about: >
+    The UK must avoid lurching from the coronavirus crisis into a deeper climate
+    crisis, the government’s advisers have warned. They recommend that ministers
+    ensure funds earmarked for a post-Covid-19 economic recovery go to firms
+    that will reduce carbon emissions. They say the public should work from home
+    if possible; and to walk or cycle. And investment should prioritize
+    broadband over road-building, the Committee on Climate Change (CCC) says.
+    People should also be encouraged to save emissions by continuing to consult
+    GPs online.
+  date: 2020-05-06
+  climate: positive
+
+- title: "Conservation in crisis: why Covid-19 could push mountain gorillas back to the brink"
+  url: "https://www.theguardian.com/environment/2020/may/05/conservation-in-crisis-covid-19-could-push-mountain-gorillas-back-to-the-brink-aoe"
+  about: >
+    Groundbreaking gorilla conservation is now in peril.  Leading scientists
+    warned last month that Covid-19 poses an “existential threat” to primates
+    and that, for mountain gorillas in particular, the introduction of a new,
+    highly-infectious disease could be a “potential extinction-level event”.
+    The main source of revenue for gorilla conservation has been lost and there
+    are fears some of those in surrounding communities who depend on tourists
+    could turn to poaching out of desperation.
+  date: 2020-05-05
+  climate: negative
+
+- title: "The meat shortages are here: Costco and Kroger warn of limited supply"
+  url: "https://nypost.com/2020/05/04/meat-shortages-are-here-costco-kroger-warn-of-limited-supply/"
+  about: >
+    In the states, major supermarkets are running out of meat to sell. On
+    Monday, Costco said it will be limiting customers to just three packages of
+    meat per shopper, while Kroger supermarkets posted an alert on the meat
+    section of its website warning that it may have limited inventory “due to
+    high demand.”
+  date: 2020-05-04
+  climate: positive
+
+- title: "Australian businesses call for climate crisis and virus economic recovery to be tackled together "
+  url: "https://www.theguardian.com/environment/2020/may/05/australian-businesses-call-for-climate-crisis-and-virus-economic-recovery-to-be-tackled-together"
+  about: >
+    "Covid-19 and climate are bigger than any economic challenge we’ve faced in
+    the last century." A leading Australian business group is calling for the
+    two biggest economic challenges in memory – recovery from the Covid-19
+    pandemic and cutting greenhouse gas emissions – to be addressed together,
+    saying it would boost growth and put the country on a firm long-term
+    footing.  Chief executive of the Australian Industry Group, representing
+    more than 60,000 businesses, says economic recovery from the virus and the
+    transition required to meet net-zero emissions by 2050 are overlapping
+    issues that should be taken on together.
+  date: 2020-05-04
+  climate: positive
   
 - title: "Air France ordered to curb competition with rail in France"
   url: "https://www.railjournal.com/passenger/high-speed/air-france-ordered-to-curb-competiton-with-rail-in-france/"
