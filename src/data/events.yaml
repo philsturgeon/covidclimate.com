@@ -1,3 +1,33 @@
+  
+- title: "Coronavirus lockdown: Inspectors called to 20 water pollutions 'from DIY'"
+  url: "https://www.bbc.co.uk/news/uk-northern-ireland-52747943"
+  about: >
+  date: 2020-05-21
+  climate: negative
+
+- title: "Conservation in crisis: ecotourism collapse threatens communities and wildlife"
+  url: "https://www.theguardian.com/environment/2020/may/05/conservation-in-crisis-covid-19-coronavirus-ecotourism-collapse-threatens-communities-and-wildlife-aoe"
+  about: >
+  date: 2020-05-20
+  climate: negative
+
+- title: "Oahu Coal Plant Vows To Reduce Carbon Emissions"
+  url: "https://www.civilbeat.org/beat/oahu-coal-plant-will-reduce-carbon-emissions"
+  about: >
+  date: 2020-05-20
+  climate: positive
+
+- title: "Lockdowns trigger dramatic fall in global carbon emissions"
+  url: "https://www.theguardian.com/environment/2020/may/19/lockdowns-trigger-dramatic-fall-global-carbon-emissions"
+  about: >
+  date: 2020-05-19
+  climate: positive
+
+- title: "Thinking of Buying a Bike? Get Ready for a Very Long Wait - The New York Times"
+  url: "https://www.nytimes.com/2020/05/18/nyregion/bike-shortage-coronavirus.html?referringSource=articleShare"
+  about: >
+  date: 2020-05-18
+  climate: positive
 
 - title: "JetBlue send Low Flying Jets over NYC as a PR Stunt"
   url: "https://twitter.com/NYPDnews/status/1258441672427474945"
@@ -38,6 +68,41 @@ Activists"
     of these energy-hogging band-aids are only contributing to making climate
     change worse when we need to be focusing on the opposite.
   date: 2020-05-06
+
+- title: "Coronavirus: UK warned to avoid climate change crisis"
+  url: "https://www.bbc.co.uk/news/science-environment-52547885"
+  about: >
+  date: 2020-05-06
+  climate: positive
+
+- title: "Conservation in crisis: why Covid-19 could push mountain gorillas back to the brink "
+  url: "https://www.theguardian.com/environment/2020/may/05/conservation-in-crisis-covid-19-could-push-mountain-gorillas-back-to-the-brink-aoe"
+  about: >
+  date: 2020-05-05
+  climate: negative
+
+- title: "The meat shortages are here: Costco and Kroger warn of limited supply"
+  url: "https://nypost.com/2020/05/04/meat-shortages-are-here-costco-kroger-warn-of-limited-supply/"
+  about: >
+    In the states, major supermarkets are running out of meat to sell. On
+    Monday, Costco said it will be limiting customers to just three packages of
+    meat per shopper, while Kroger supermarkets posted an alert on the meat
+    section of its website warning that it may have limited inventory “due to
+    high demand.”
+  date: 2020-05-04
+  climate: positive
+
+- title: "Australian businesses call for climate crisis and virus economic recovery to be tackled together "
+  url: "https://www.theguardian.com/environment/2020/may/05/australian-businesses-call-for-climate-crisis-and-virus-economic-recovery-to-be-tackled-together"
+  about: >
+  date: 2020-05-04
+  climate: positive
+
+- title: "Australian businesses call for climate crisis and virus economic recovery to be tackled together "
+  url: "https://www.theguardian.com/environment/2020/may/05/australian-businesses-call-for-climate-crisis-and-virus-economic-recovery-to-be-tackled-together"
+  about: >
+  date: 2020-05-04
+  climate: positive
   
 - title: "Air France ordered to curb competition with rail in France"
   url: "https://www.railjournal.com/passenger/high-speed/air-france-ordered-to-curb-competiton-with-rail-in-france/"
