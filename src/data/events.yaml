@@ -1,25 +1,53 @@
   
-- title: "Coronavirus lockdown: Inspectors called to 20 water pollutions 'from DIY'"
+- title: "Water Pollution Caused by Lockdown DIY Waste (Painting, Gardening, etc)"
   url: "https://www.bbc.co.uk/news/uk-northern-ireland-52747943"
   about: >
+    Staff from the Northern Ireland Environment Agency have investigated
+    incidents caused by waste water linked to painting and decorating being
+    disposed of incorrectly.
+
+    "I know people are taking this time to catch up on jobs around the house but
+    please make sure disposing of the waste water associated with these DIY jobs
+    doesn't damage your local river." Mr Poots added.
   date: 2020-05-21
   climate: negative
 
-- title: "Conservation in crisis: ecotourism collapse threatens communities and wildlife"
+- title: "Ecotourism Collapse Threatens Communities And Wildlife"
   url: "https://www.theguardian.com/environment/2020/may/05/conservation-in-crisis-covid-19-coronavirus-ecotourism-collapse-threatens-communities-and-wildlife-aoe"
   about: >
+    Organisations all over the world that depend on visitors to fund projects
+    for critically endangered species and rare habitats could be forced to
+    close, according to wildlife NGOs, after border closures and worldwide
+    travel restrictions abruptly halted millions of pounds of income from
+    tourism.
   date: 2020-05-20
   climate: negative
 
 - title: "Oahu Coal Plant Vows To Reduce Carbon Emissions"
   url: "https://www.civilbeat.org/beat/oahu-coal-plant-will-reduce-carbon-emissions"
   about: >
+    AES Hawaii Inc. has agreed to significantly reduce greenhouse gas emissions
+    at its coal-fired plant in Kapolei, which provides about one-fifth of Oahu’s
+    electricity.
+
+    The announcement came after the Sierra Club earlier this week sued the
+    Hawaii Department of Health, asking a state judge to require DOH make the
+    power plant reduce its carbon dioxide emissions as mandated by state law. In
+    its complaint, the Sierra Club said the department had failed to fulfill a
+    duty to make sure AES had submitted a plan to lower emissions to at least
+    1990 levels by Jan. 1.
   date: 2020-05-20
   climate: positive
 
-- title: "Lockdowns trigger dramatic fall in global carbon emissions"
+- title: "Global Carbon Emissions Down by 17%"
   url: "https://www.theguardian.com/environment/2020/may/19/lockdowns-trigger-dramatic-fall-global-carbon-emissions"
   about: >
+    Daily emissions of the greenhouse gas plunged 17% by early April compared
+    with 2019 levels, according to the first definitive study of global carbon
+    output this year. “This is a really big fall, but at the same time, 83% of
+    global emissions are left, which shows how difficult it is to reduce
+    emissions with changes in behaviour,” said Corinne Le Quéré, a professor of
+    climate change at the University of East Anglia.
   date: 2020-05-19
   climate: positive
 
