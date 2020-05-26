@@ -51,7 +51,18 @@
   date: 2020-05-19
   climate: positive
 
-- title: "The United States Is Facing A Shortage Of Bicycles As Demand Surges"
+- title: "Parking Cull And Pocket Parks For England’s Finest Street As Newcastle Plans Post-Pandemic Future"
+  url: "https://www.forbes.com/sites/carltonreid/2020/05/15/parking-cull-and-pocket-parks-for-englands-finest-street-as-newcastle-plans-post-pandemic-future/"
+  about: >
+    Newcastle is the latest city to unveil pandemic measures to curb motor
+    vehicles and, in addition to culling parking spaces from what renowned
+    architectural historian Nikolaus Pevsner called the “finest street in
+    England,” Newcastle City Council will be introducing pop-up cycleways,
+    widened sidewalks, and more 20mph streets. 
+  date: 2020-05-15
+  climate: positive
+
+- title: "Dundee Spaces for People "
   url: "https://www.nytimes.com/2020/05/18/nyregion/bike-shortage-coronavirus.html?referringSource=articleShare"
   about: >
     All over the States, bicycle shops are running out of stock as they struggle
@@ -82,14 +93,14 @@
 Activists"
   url: "https://www.theguardian.com/world/2020/may/06/brazil-using-coronavirus-to-cover-up-assaults-on-amazon-warn-activists"
   about: >
-    "Brazilian president Bolsonaro is dismantling rules shielding protected reserves. Key
+    Brazilian president Bolsonaro is dismantling rules shielding protected reserves. Key
     environment officials have been sacked, and environmentalists and indigenous
     leaders fear the pandemic is being used as a smokescreen for a new assault
     on the rainforest. “The indigenous peoples are alone and we have to fight
     against the virus, the loggers and the wildcat miners. We don’t know which
-    is worse,”"
-    date: 2020-05-06
-    climate: negative
+    is worse,”
+  date: 2020-05-06
+  climate: negative
 
 - title: "Coronavirus Makes Cooling Centers Risky, Just as Scorching Weather Hits"
   url: "https://www.nytimes.com/2020/05/06/climate/coronavirus-climate-change-heat-waves.html"
