@@ -51,17 +51,6 @@
   date: 2020-05-19
   climate: positive
 
-- title: "Parking Cull And Pocket Parks For England’s Finest Street As Newcastle Plans Post-Pandemic Future"
-  url: "https://www.forbes.com/sites/carltonreid/2020/05/15/parking-cull-and-pocket-parks-for-englands-finest-street-as-newcastle-plans-post-pandemic-future/"
-  about: >
-    Newcastle is the latest city to unveil pandemic measures to curb motor
-    vehicles and, in addition to culling parking spaces from what renowned
-    architectural historian Nikolaus Pevsner called the “finest street in
-    England,” Newcastle City Council will be introducing pop-up cycleways,
-    widened sidewalks, and more 20mph streets. 
-  date: 2020-05-15
-  climate: positive
-
 - title: "Dundee Spaces for People "
   url: "https://www.nytimes.com/2020/05/18/nyregion/bike-shortage-coronavirus.html?referringSource=articleShare"
   about: >
@@ -73,6 +62,17 @@
     retailer in Washington, D.C., sold all its entry-level bikes by the end of
     April and has fielded more preorders than ever in its 50-year history.
   date: 2020-05-18
+  climate: positive
+
+- title: "Parking Cull And Pocket Parks For England’s Finest Street As Newcastle Plans Post-Pandemic Future"
+  url: "https://www.forbes.com/sites/carltonreid/2020/05/15/parking-cull-and-pocket-parks-for-englands-finest-street-as-newcastle-plans-post-pandemic-future/"
+  about: >
+    Newcastle is the latest city to unveil pandemic measures to curb motor
+    vehicles and, in addition to culling parking spaces from what renowned
+    architectural historian Nikolaus Pevsner called the “finest street in
+    England,” Newcastle City Council will be introducing pop-up cycleways,
+    widened sidewalks, and more 20mph streets. 
+  date: 2020-05-15
   climate: positive
 
 - title: "JetBlue send Low Flying Jets over NYC as a PR Stunt"
@@ -145,13 +145,24 @@ Activists"
 - title: "The meat shortages are here: Costco and Kroger warn of limited supply"
   url: "https://nypost.com/2020/05/04/meat-shortages-are-here-costco-kroger-warn-of-limited-supply/"
   about: >
-    In the states, major supermarkets are running out of meat to sell. On
+    In the States, major supermarkets are running out of meat to sell. On
     Monday, Costco said it will be limiting customers to just three packages of
     meat per shopper, while Kroger supermarkets posted an alert on the meat
     section of its website warning that it may have limited inventory “due to
     high demand.”
   date: 2020-05-04
   climate: positive
+
+- title: "Coronavirus is causing a flurry of plastic waste. Campaigners fear it may be permanent"
+  url: "https://edition.cnn.com/2020/05/04/world/coronavirus-plastic-waste-pollution-intl/index.html"
+  about: >
+    From people discarding plastic gloves and masks in cities across the world
+    to important regulations on the use of plastic being scrapped, rolled back
+    or delayed, the problem has taken a back seat during one of the most
+    significant public health crises of modern times. The implications of those
+    trends could spell years of trouble for our already polluted oceans.
+  date: 2020-05-04
+  climate: negative
 
 - title: "Australian businesses call for climate crisis and virus economic recovery to be tackled together "
   url: "https://www.theguardian.com/environment/2020/may/05/australian-businesses-call-for-climate-crisis-and-virus-economic-recovery-to-be-tackled-together"
